@@ -1,0 +1,51 @@
+_repo: L-oeuvre-du-comte-de-Mirabeau_44181
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44181-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mirabeau, Honoré-Gabriel de Riqueti, comte de
+    aliases:
+    - Riqueti, Honoré-Gabriel, comte de Mirabeau
+    - Riquetti, Honoré Gabriel, comte de Mirabeau
+    - De Mirabeau, Honoré-Gabriel de Riquetti, comte
+    - Mirabeau, Honore-Gabriel de Riqueti, comte de
+    - De Riquetti, Honoré-Gabriel, comte de Mirabeau
+    birthdate: 1749
+    deathdate: 1791
+    gutenberg_agent_id: '32251'
+    url: http://www.gutenberg.org/2009/agents/32251
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti_de_Mirabeau
+    - http://en.wikipedia.org/wiki/Honor%C3%A9_Gabriel_Riqueti,_comte_de_Mirabeau
+  editor:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Kostrowisky, Guillaume de
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - De Kostrowisky, Guillaume
+    - Apollinaris de Kostrowitzky, Wilhelm
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2013-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44181'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature'
+- !lcc 'PQ'
+- !lcsh 'Paraphilias'
+tableOfContents: Erotika biblion -- Le libertin de qualité -- Hic et hec -- Le rideau
+  levé -- Le degré des âges du plaisir.
+title: L'oeuvre du comte de Mirabeau
+url: http://www.gutenberg.org/ebooks/44181
